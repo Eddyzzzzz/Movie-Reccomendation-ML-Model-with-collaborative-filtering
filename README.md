@@ -1,1 +1,1 @@
-# Movie-Reccomendations
+A collaborative filtering recommendation system using the MovieLens 100k dataset. A Singular Value Decomposition (SVD) model was optimized through grid search to capture latent patterns like user preferences and movie genres. Model performance was validated with Mean Absolute Error (MAE), and predictions were generated for a output dataset, simulating real-world use.
