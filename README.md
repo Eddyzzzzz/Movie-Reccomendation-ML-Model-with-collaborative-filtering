@@ -1,4 +1,4 @@
-# 🎬 Hybrid Movie Recommendation System  
+# 🎬 Movie-Reccomendation-ML-Model-with-collaborative-filtering
 
 This project implements an **advanced hybrid recommendation system** to predict movie ratings by combining **collaborative filtering** and **metadata-based features**.  
 
